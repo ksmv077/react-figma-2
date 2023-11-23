@@ -1,0 +1,38 @@
+.main_container{
+    width: 1200px;
+    margin-top: 20px;
+    display: flex;
+}
+.side_bar{
+    width: 350px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.wrapCard{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 250px;
+    margin-left: 50px;
+}
+
+.name{
+    font-size: 20px;
+    opacity: 0.5;
+}
+
+.button{
+    background-color: rgba(0, 0, 255, 0.764);
+    border: 0;
+    height: 40px;
+    border-radius: 6px;
+    color: aliceblue;
+}
+
+

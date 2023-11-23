@@ -1,0 +1,16 @@
+.header{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+.header_img img{
+    max-width: 100%;
+}
+.header_img{
+ width: 50px;
+}
+.header_text_update{
+    font-size: 25px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
